@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="342px" height="40px" viewBox="0 0 342 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>coffee</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="Desktop-HD-Copy" transform="translate(-542.000000, -462.000000)">
+            <g id="Group-5" transform="translate(-5.000000, 4.000000)">
+                <g id="coffee" transform="translate(548.000000, 458.000000)">
+                    <path d="M185.555556,0 L150,0 L150,22.2222222 C150,27.1333333 153.977778,31.1111111 158.888889,31.1111111 L172.222222,31.1111111 C177.133333,31.1111111 181.111111,27.1333333 181.111111,22.2222222 L181.111111,15.5555556 L185.555556,15.5555556 C188.022222,15.5555556 190,13.5555556 190,11.1111111 L190,4.44444444 C190,1.97777778 188.022222,0 185.555556,0 L185.555556,0 Z M185.555556,11.1111111 L181.111111,11.1111111 L181.111111,4.44444444 L185.555556,4.44444444 L185.555556,11.1111111 L185.555556,11.1111111 Z M150,35.5555556 L185.555556,35.5555556 L185.555556,40 L150,40 L150,35.5555556 Z" id="Page-1" fill="#FFFFFF"></path>
+                    <path d="M340,20 L210,20" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M130,20 L0,20" id="Line-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
